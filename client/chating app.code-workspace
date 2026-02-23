@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Documents/OneDrive/Desktop"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chating app"
+	}
+}
